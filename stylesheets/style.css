@@ -1,0 +1,30 @@
+body {
+  background-color: #282C34;
+  color: white;
+  font-family: 'Ubuntu', monospace;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+#author {
+  color: LightGreen;
+  font-size: 18px;
+}
+
+#quote {
+  color: LightBlue;
+  font-size: 22px;
+}
+
+.button-space {
+  padding: 14px 4px;
+}
+
+.quote-box {
+  border: 1px dashed LightGray;
+  display: inline-block;
+  padding: 4px 8px;
+}
